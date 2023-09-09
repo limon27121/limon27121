@@ -7,7 +7,7 @@
 Hello!
 I'm MD. Moontaser Alam, a motivated software engineer from Bangladesh who is quick to pick up new skills and is a skilled problem-solver. I'm always eager to learn about new technology. I'm also learning ML and AI. I think that technology can help people solve difficulties and live more comfortably and easily. My goal is to work and learn with the biggest tech companies.
 
-Skills:   JS / HTML / CSS/Bootstrap/ Tailwind CSS/React / C / C++ / Python
+Skills:   JS / HTML / CSS/Bootstrap/ Tailwind CSS/React / C / C++ / Python / Mysql
 
 - 🔭 I’m currently working on Home 
 - 🌱 I’m currently learning Javascript,react,figma 
