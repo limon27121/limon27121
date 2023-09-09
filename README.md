@@ -1,4 +1,3 @@
-![Web Developer| UX/UI Designer | Software Engineer | Problem Solver](https://scontent.fdac27-1.fna.fbcdn.net/v/t39.30808-6/342627017_916314949618503_6905310101264265471_n.jpg?stp=cp6_dst-jpg&_nc_cat=110&ccb=1-7&_nc_sid=52f669&_nc_eui2=AeFUfgWxJDjSxEGHUi8HQQ-Z3ToiktaK2EbdOiKS1orYRsAbwOKJ1PrJRmnOFPOpz_gEFAWQlV9uNOutu5452biK&_nc_ohc=RkvcoMlGHuMAX9w_gvF&_nc_ht=scontent.fdac27-1.fna&oh=00_AfBnT3k-x-6g8LUbsDpNgzUMngwAu9a-Gbis16xOMDz_rg&oe=65025A13)
 
 <h1 align="center">Hi 👋, I'm MD.Moontaser Alam</h1>
 <h3 align="center">Hello! I'm MD. Moontaser Alam, a motivated software engineer from Bangladesh who is quick to pick up new skills and is a skilled problem-solver. I'm always eager to learn about new technology. I'm also learning ML and AI. I think that technology can help people solve difficulties and live more comfortably and easily. My goal is to work and learn with the biggest tech companies.</h3>
