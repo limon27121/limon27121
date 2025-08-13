@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm MD.Moontaser Alam</h1>
-<h3 align="center">Hello! I'm MD. Moontaser Alam, a motivated software engineer from Bangladesh who is quick to pick up new skills and is a skilled problem-solver. I'm always eager to learn about new technology. I'm also learning ML and AI. I think that technology can help people solve difficulties and live more comfortably and easily. My goal is to work and learn with the biggest tech companies.</h3>
+<h3 align="center">Hello! I'm MD. Moontaser Alam, a motivated Software Test engineer from Bangladesh who is quick to pick up new skills and is a skilled problem-solver. I'm always eager to learn about new technology.  I think  technology can help people solve difficulties and live more comfortably and easily. My goal is to work and learn with the biggest tech companies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=limon27121&label=Profile%20views&color=0e75b6&style=flat" alt="limon27121" /> </p>
 
@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **Newroz Technologies Limited**
 
-- 🌱 I’m currently learning **Javascript,Vue,figma,Django**
+- 🌱 I’m currently learning **Java,Selenium,TestNG**
 
 - 👯 I’m looking to collaborate on **Github**
 
 - 👨‍💻 All of my projects are available at [https://github.com/limon27121?tab=repositories](https://github.com/limon27121?tab=repositories)
 
-- 💬 Ask me about **Web development**
+- 💬 Ask me about **Automation,Mannual Testing,Api Testing**
 
 - 📫 How to reach me **moontaser.limon@gmail.com**
 
