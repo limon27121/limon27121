@@ -21,7 +21,9 @@ QA engineer from Dhaka, Bangladesh with 2.5+ years in software testing. At work 
 - 🧪 Previously **SQA Engineer Intern @ Red Dot Digital** · Oct 2023 – Feb 2024
 - 🎓 **Full Stack SQA & Software Test Automation**, Road To SDET (Batch 19, 2026)
 - 🎓 **United International University**, graduated 2023
-- 💬 Ask me about manual testing, API testing, Playwright and k6
+- 💬 Ask me about manual testing, API testing, Playwright, k6 and JMeter
+- 📱 Mobile app test automation with Maestro
+- 🌱 Also working with Java + Selenium (basic level)
 ---
  
 ### 🛠️ Tools I test with
