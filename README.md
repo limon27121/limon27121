@@ -13,8 +13,11 @@
 QA engineer from Dhaka, Bangladesh with 2.5+ years in software testing. At work I test a fintech platform end to end: mobile apps, web panels and the APIs behind them. Here on GitHub I keep my automation work: E2E suites in Playwright, API tests with Mocha + Axios and Postman, and load tests in k6.
  
 - 💼 **Jr. SQA Engineer @ Newroz Technology Limited** · Sep 2024 – present
-  - **FastPay:** 4 mobile apps (Personal, Agent, Merchant, SR) and 15 web panels, including full-app regression and security-fix verification
-  - **ZiCharge** app and panel · **Duhok SC** web panel and web app
+  - 💳 **FastPay**: digital payment and fintech platform
+    - **4 mobile apps** (Personal, Agent, Merchant, SR) and **15 web panels**
+    - Full-app regression and security-fix verification
+  - 🌐 **ZiCharge**: app and panel
+  - ⚽ **Duhok Sports Club**: web panel and web app
 - 🧪 Previously **SQA Engineer Intern @ Red Dot Digital** · Oct 2023 – Feb 2024
 - 🎓 **Full Stack SQA & Software Test Automation**, Road To SDET (Batch 19, 2026)
 - 🎓 **United International University**, graduated 2023
