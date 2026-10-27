@@ -2,8 +2,8 @@
 <h3 align="center">Software QA Engineer · Manual, API, E2E &amp; Performance Testing</h3>
  
 <p align="center">
-  <a href="https://www.linkedin.com/in/md-moontaser-alam-786156240/"><img src="https://img.shields.io/badge/LinkedIn-Moontaser%20Alam-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:moontaser.limon@gmail.com"><img src="https://img.shields.io/badge/Email-moontaser.limon%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/md-moontaser-alam-786156240/"><img src="https://img.shields.io/badge/LinkedIn-Moontaser%20Alam-0A66C2?style=flat-square&labelColor=004182" alt="LinkedIn" /></a>
+  <a href="mailto:moontaser.limon@gmail.com"><img src="https://img.shields.io/badge/Email-moontaser.limon%40gmail.com-D14836?style=flat-square&labelColor=A7392B" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=limon27121&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 ---
