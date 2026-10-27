@@ -1,35 +1,64 @@
-
-<h1 align="center">Hi 👋, I'm MD.Moontaser Alam</h1>
-<h3 align="center">Hello! I'm MD. Moontaser Alam, a motivated Software Test engineer from Bangladesh who is quick to pick up new skills and is a skilled problem-solver. I'm always eager to learn about new technology.  I think  technology can help people solve difficulties and live more comfortably and easily. My goal is to work and learn with the biggest tech companies.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=limon27121&label=Profile%20views&color=0e75b6&style=flat" alt="limon27121" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=limon27121" alt="limon27121" /></a> </p>
-
-- 🔭 I’m currently working on **Newroz Technologies Limited**
-
-- 🌱 I’m currently learning **Java,Selenium,TestNG**
-
-- 👯 I’m looking to collaborate on **Github**
-
-- 👨‍💻 All of my projects are available at [https://github.com/limon27121?tab=repositories](https://github.com/limon27121?tab=repositories)
-
-- 💬 Ask me about **Automation,Mannual Testing,Api Testing**
-
-- 📫 How to reach me **moontaser.limon@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/md-moontaser-alam-786156240/overlay/1635535839119/single-media-viewer/?profileId=ACoAADvSjdYBbZSET2xSdHH_Dd-ai40V9971898](https://www.linkedin.com/in/md-moontaser-alam-786156240/overlay/1635535839119/single-media-viewer/?profileId=ACoAADvSjdYBbZSET2xSdHH_Dd-ai40V9971898)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-moontaser-alam-786156240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-moontaser-alam-786156240/" height="30" width="40" /></a>
+<h1 align="center">Hi, I'm Moontaser Alam 👋</h1>
+<h3 align="center">Software QA Engineer · Manual, API, E2E &amp; Performance Testing</h3>
+ 
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-moontaser-alam-786156240/"><img src="https://img.shields.io/badge/LinkedIn-Moontaser%20Alam-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:moontaser.limon@gmail.com"><img src="https://img.shields.io/badge/Email-moontaser.limon%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=limon27121&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=limon27121&show_icons=true&locale=en&layout=compact" alt="limon27121" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=limon27121&show_icons=true&locale=en" alt="limon27121" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=limon27121&" alt="limon27121" /></p>
+---
+ 
+### About me
+ 
+QA engineer from Dhaka, Bangladesh with 2+ years in software testing. At work I test a fintech platform end to end: mobile apps, web panels and the APIs behind them. Here on GitHub I keep my automation work: E2E suites in Playwright, API tests with Mocha + Axios and Postman, and load tests in k6.
+ 
+- 💼 **Jr. SQA Engineer @ Newroz Technology Limited** · Sep 2024 – present
+  - **FastPay:** 4 mobile apps (Personal, Agent, Merchant, SR) and 15 web panels, including full-app regression and security-fix verification
+  - **ZiCharge** app and panel · **Duhok SC** web panel and web app
+- 🧪 Previously **SQA Engineer Intern @ Red Dot Digital** · Oct 2023 – Feb 2024
+- 🎓 **Full Stack SQA & Software Test Automation**, Road To SDET (Batch 19, 2026)
+- 🎓 **United International University**, graduated 2023
+- 💬 Ask me about manual testing, API testing, Playwright and k6
+---
+ 
+### 🛠️ Tools I test with
+ 
+**Automation**<br/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
+<img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit" />
+<img src="https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white" alt="Mocha" />
+ 
+**API &amp; Performance**<br/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios" />
+<img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white" alt="k6" />
+ 
+**Languages**<br/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+ 
+**Tools**<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+ 
+---
+ 
+### 🚀 Featured projects
+ 
+| Project | What it covers | Stack |
+|---|---|---|
+| [**DMoney E2E Automation**](https://github.com/limon27121/dmoney-playwright-e2e-automation-B19-) | Full Agent lifecycle on the DMoney Portal: registration, admin activation, deposits, password reset and statement export to CSV. 24-test regression suite plus a tagged smoke suite; login OTPs read through the Gmail API. | Playwright · TypeScript · Page Object Model · GitHub Actions |
+| [**DMoney Load Test**](https://github.com/limon27121/k6-dmoney-performance-testing) | 2-minute transaction load test with 6 users (agents, customers, merchants) across the deposit, send-money and payment APIs, with per-API p95 thresholds and an HTML dashboard report. | k6 · JavaScript |
+| [**API Integration Tests**](https://github.com/limon27121/YOUR-MOCHA-AXIOS-REPO) | Automated API integration tests: requests sent with Axios, test flow and assertions in Mocha. | Mocha · Axios · JavaScript |
+| [**Postman API Test Suite**](https://github.com/limon27121/YOUR-POSTMAN-REPO) | API collection with test scripts covering positive and negative cases. | Postman |
+| [**Blog Management REST API**](https://github.com/limon27121/Blog-Application-REST-API-Development) | Built a REST API with Guest, User and Admin roles, then tested it with a 78-request Postman suite and [published Postman documentation](https://documenter.getpostman.com/view/24742376/2sBYAuSWoi). | Node.js · Express · MySQL · JWT · Postman |
+| [**Selenium + JUnit**](https://github.com/limon27121/Junit_with_selenium) | Web UI automation with Selenium WebDriver and JUnit. | Java · Selenium · JUnit |
+ 
+---
+ 
+<p align="center"><i>Always happy to talk about testing. Reach me on <a href="https://www.linkedin.com/in/md-moontaser-alam-786156240/">LinkedIn</a> or by <a href="mailto:moontaser.limon@gmail.com">email</a>.</i></p>
