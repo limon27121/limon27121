@@ -36,9 +36,11 @@ QA engineer from Dhaka, Bangladesh with 2+ years in software testing. At work I 
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
 <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit" />
 <img src="https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white" alt="Mocha" />
+<img src="https://img.shields.io/badge/Chai-A30701?style=flat-square&logo=chai&logoColor=white" alt="Chai" />
 
 **API &amp; Performance**<br/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/Newman-F37036?style=flat-square&logo=postman&logoColor=white" alt="Newman" />
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios" />
 <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white" alt="k6" />
 <img src="https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white" alt="JMeter" />
@@ -63,8 +65,8 @@ QA engineer from Dhaka, Bangladesh with 2+ years in software testing. At work I 
 |---|---|---|
 | [**DMoney E2E Automation**](https://github.com/limon27121/dmoney-playwright-e2e-automation-B19-) | Full Agent lifecycle on the DMoney Portal: registration, admin activation, deposits, password reset and statement export to CSV. 24-test regression suite plus a tagged smoke suite; login OTPs read through the Gmail API. | Playwright · TypeScript · Page Object Model · GitHub Actions |
 | [**DMoney Load Test**](https://github.com/limon27121/k6-dmoney-performance-testing) | 2-minute transaction load test with 6 users (agents, customers, merchants) across the deposit, send-money and payment APIs, with per-API p95 thresholds and an HTML dashboard report. | k6 · JavaScript |
-| [**API Integration Tests**](https://github.com/limon27121/YOUR-MOCHA-AXIOS-REPO) | Automated API integration tests: requests sent with Axios, test flow and assertions in Mocha. | Mocha · Axios · JavaScript |
-| [**Postman API Test Suite**](https://github.com/limon27121/YOUR-POSTMAN-REPO) | API collection with test scripts covering positive and negative cases. | Postman |
+| [**DMoney API Integration Tests**](https://github.com/limon27121/dmoney-api-integration-testing) | 36 test cases across 14 scenarios covering the full money flow: user creation, admin activation, OTP login, deposit, send money, cash-out and merchant payment. Verifies every commission and service fee, checks balance arithmetic, and covers negative cases (400, 401, 404, 208). | Mocha · Chai · Axios · JavaScript |
+| [**DMoney API Test Suite**](https://github.com/limon27121/dmoney-api-tests-B19) | 30 test cases across 7 modules (21 positive, 9 negative) for user onboarding, OTP login and every transaction type, validating balances, fees and commissions. Runs from the command line with Newman and produces an HTML report. | Postman · Newman · HTMLExtra |
 | [**Blog Management REST API**](https://github.com/limon27121/Blog-Application-REST-API-Development) | Built a REST API with Guest, User and Admin roles, then tested it with a 78-request Postman suite and [published Postman documentation](https://documenter.getpostman.com/view/24742376/2sBYAuSWoi). | Node.js · Express · MySQL · JWT · Postman |
 | [**Selenium + JUnit**](https://github.com/limon27121/Junit_with_selenium) | Web UI automation with Selenium WebDriver and JUnit. | Java · Selenium · JUnit |
 
